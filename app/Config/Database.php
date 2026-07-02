@@ -1,8 +1,8 @@
 <?php
 class Database {
-    private $host = "localhost";
+    private $host = "db";
     private $user = "root";
-    private $pass = "";      
+    private $pass = "rootpass";      
     private $dbname = "minimart";
     public $conn;
 
